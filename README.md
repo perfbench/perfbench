@@ -1,5 +1,5 @@
 ### Please access website https://perfbench.com for more information about the project.
-### Repositories are private at this moment, please contact me if you would like to contribute.
+#### Repositories are private at this moment, please use contact form on the webiste to reach me out if you would like to contribute.
 
 <!--
 **perfbench/perfbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
